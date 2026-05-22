@@ -1,4 +1,6 @@
 # ⚡ Hone
+[![npm version](https://img.shields.io/npm/v/hone-skill)](https://www.npmjs.com/package/hone-skill)
+[![npm downloads](https://img.shields.io/npm/dm/hone-skill)](https://www.npmjs.com/package/hone-skill)
 
 > **AI writes the code. You understand it.**
 
